@@ -13,3 +13,4 @@ frontend/dist
 frontend/.cache
 *.DS_Store
 data_science/data/*.csv
+.idea/
